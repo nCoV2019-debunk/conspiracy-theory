@@ -102,8 +102,9 @@
 
 ## Question5
 ## nCoV2019有可能是从实验室泄漏的吗？
-对这个问题我见到的最好最严谨的解释是3月17日发表在自然医学（Nature Medicine）的文章（https://www.nature.com/articles/s41591-020-0820-9）。摘要翻译如下：
+对这个问题我见到的最好最严谨的解释是3月17日发表在自然医学（Nature Medicine）的文章（https://www.nature.com/articles/s41591-020-0820-9）。
 
+摘要翻译如下：
 >We offer a perspective on the notable features of the SARS-CoV-2 genome and discuss scenarios by which they could have arisen. Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
 
 我们提出关于SARS-CoV-2（即nCoV2019）基因组的一些看法。我们探讨了病毒的起源。我们的分析清楚地表明nCoV2019病毒既不是实验室人工构造，也不是人工故意改造而来。
