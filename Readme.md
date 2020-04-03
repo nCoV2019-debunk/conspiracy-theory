@@ -119,7 +119,7 @@
 
 >Although the evidence shows that SARS-CoV-2 is not a purposefully manipulated virus, it is currently impossible to prove or disprove the other theories of its origin described here. However, since we observed all notable SARS-CoV-2 features, including the optimized RBD and polybasic cleavage site, in related coronaviruses in nature, we do not believe that any type of laboratory-based scenario is plausible.
 
-虽然证据表明nCoV2019不是人工故意改造来的，现在不可能证明或证伪其它的可能性（动物或者人群中自然进化，实验室泄漏）。但是，因为nCoV2019病毒基因组的显著特征（包括S蛋白优化的结合位点，多碱性氨基酸酶切位点（注：即上面提到的第四个插入序列））在自然界中相关的冠状病毒中都存在，我们不相信任何源于实验室的解释是合理的。
+虽然证据表明nCoV2019不是人工有意改造来的，现在不可能证明或证伪其它的可能性（动物或者人群中自然进化，实验室泄漏）。但是，因为nCoV2019病毒基因组的显著特征（包括S蛋白优化的结合位点，多碱性氨基酸酶切位点（注：即上面提到的第四个插入序列））在自然界中相关的冠状病毒中都存在，我们不相信任何源于实验室的解释是合理的。
  
 ## Question6
 ## nCoV2019病毒毒株2013年就收集了，为什么2020年才发表基因组和文章？
