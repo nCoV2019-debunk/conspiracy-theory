@@ -105,19 +105,23 @@
 对这个问题我见到的最好最严谨的解释是3月17日发表在自然医学（Nature Medicine）的文章（https://www.nature.com/articles/s41591-020-0820-9）。摘要翻译如下：
 
 >We offer a perspective on the notable features of the SARS-CoV-2 genome and discuss scenarios by which they could have arisen. Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus
+
 我们提出关于SARS-CoV-2（即nCoV2019）基因组的一些看法。我们探讨了病毒的起源。我们的分析清楚地表明nCoV2019病毒既不是实验室人工构造，也不是人工故意改造而来。
 
 >Furthermore, if genetic manipulation had been performed, one of the several reverse-genetic systems available for betacoronaviruses would probably have been used19. However, the genetic data irrefutably show that SARS-CoV-2 is not derived from any previously used virus backbone20
+
 如果这个病毒是经过人工基因改造，那么至少会用一种改造冠状病毒的逆向基因系统。但是，基因组数据毫无疑问地表明nCoV2019不带有任何已知的用于改造病毒的系统。
 
 >Instead, we propose two scenarios that can plausibly explain the origin of SARS-CoV-2: (i) natural selection in an animal host before zoonotic transfer; and (ii) natural selection in humans following zoonotic transfer. We also discuss whether selection during passage could have given rise to SARS-CoV-2.
+
 反而，我们提出两种可能性：1. 在动物中自然进化而来。2.从动物传到人后在人群中进化而来。我们也讨论了nCoV2019是否由实验室细胞培养选择而来。
 
 >Although the evidence shows that SARS-CoV-2 is not a purposefully manipulated virus, it is currently impossible to prove or disprove the other theories of its origin described here. However, since we observed all notable SARS-CoV-2 features, including the optimized RBD and polybasic cleavage site, in related coronaviruses in nature, we do not believe that any type of laboratory-based scenario is plausible.
+
 虽然证据表明nCoV2019不是人工故意改造来的，现在不可能证明或证伪其它的可能性（动物或者人群中自然进化，实验室泄漏）。但是，因为nCoV2019病毒基因组的显著特征（包括S蛋白优化的结合位点，多碱性氨基酸酶切位点（注：即上面提到的第四个插入序列））在自然界中相关的冠状病毒中都存在，我们不相信任何源于实验室的解释是合理的。
  
 ## Question6
 ## nCoV2019病毒毒株2013年就收集了，为什么2020年才发表基因组和文章？
-现在病毒分离，基因组测序都很容易，不是每发现一个新的病毒株都可以发文章。什么概念呢？NCBI的数据库有24万多个细菌类基因组，35447个病毒基因组（https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/）。所以我觉得这没有什么奇怪的。我们实验室就有好些细菌基因组没有发表，也没有传到NCBI的数据库中。
+现在病毒分离，基因组测序都很容易，不是每发现一个新的病毒株都可以发文章。什么概念呢？NCBI的数据库有24万多个细菌类基因组，35447个病毒基因组（https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/) 所以我觉得这没有什么奇怪的。我们实验室就有好些细菌基因组没有发表，也没有传到NCBI的数据库中。
 
 
