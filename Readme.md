@@ -68,3 +68,22 @@
 ![](Images/image006.png)
 
 *图6. A.进化树显示新冠病毒nCoV2019不是从RaTG13人工或自然进化而来。B.电脑模拟显示，进化树可以准确反映出模拟的RaTG13子代型是从RaTG13进化而来的。*
+
+## Question4
+## nCoV2019的Spike蛋白有四个插入序列，怎么解释？是人为的吗？
+最先指出这四个插入序列的是一篇没有经过同行评审的预印文章(https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1)。这篇文章声称（claim）这四个插入序列和HIV的序列高度相似，因此非同寻常。于是阴谋论者引用这篇文章，说病毒是人工改造的，不可能是自然进化来的。
+
+首先要说的是，这篇预印文章的分析方法犯了非常低级的错误。所以几天之内就撤了稿。这四个插入序列都很短，在其它物种（各种动物，细菌和病毒）中都存在，说车载斗量都不过分。其中第三和第四个序列和HIV序列相差甚远，可以说和HIV没有半毛钱的关系。反驳（打脸）这篇文章的科学家很多。比如经同行评审后正式发表的文章有这篇 （https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033698/）。 
+
+好吧，既然这四个插入序列和HIV无关。那么，它们究竟是从哪里来的呢？
+关于这个问题，Trevor Bedford 的Twitter解释得很好。 Trevor Bedford是Fred Hutchinson Cancer Research Center的教授(https://bedford.io/blog/)。他的专长是用基因组研究新冠病毒流行病史。他的研究推测出美国华盛顿州从很早就已出现社区感染（https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html）。
+
+我们来看一下他是如何解释的。他解释的原文在这里。（https://threadreaderapp.com/thread/1223666856923291648.html）
+
+![](Images/image007.png)
+>“第一个插入序列在云南蝙蝠病毒RaTG13也有，所以这个序列不可能是人工插入到nCoV2019病毒的。”
+
+![](Images/image008.png)
+>“第二个插入序列根本不是插入序列，只是序列比对技术错误（artifact）。序列本身在蝙蝠病毒RaTG13和相近的其它蝙蝠病毒也存在。这个序列根本不可能是人工插入到nCoV2019病毒的。”
+
+
