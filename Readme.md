@@ -25,6 +25,8 @@
 
 *图1:血红蛋白的序列分析。图片取自https://mbio.asm.org/content/9/6/e01524-18。*
 
+[![question 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1586202435/video_to_markdown/images/youtube--eITBoHBftv4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=eITBoHBftv4&feature=youtu.be "question 1")
+
 ## Question1
 ## 和新冠病毒nCoV2019最近的病毒是什么？穿山甲是中间宿主吗？
 通过比对病毒的29000个碱基的相似性，构建出图2的进化树。红色方框中的是新冠病毒，箭头指的是云南蝙蝠中发现的RaTG13病毒。如果从新冠病毒出发沿着树枝向树根方向移动，我们就可以找到新冠病毒和各类病毒的共同祖先。图中红点是新冠病毒和RaTG13病毒的共同祖先。蓝色的点代表新冠病毒和其它各类病毒的共同祖先。从图中可以看出，和新冠病毒亲缘关系最近的病毒是RaTG13，这是因为它们有着最近或者时间轴上最晚的共同祖先。
