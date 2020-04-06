@@ -50,6 +50,8 @@
 
 *图4: 2019年SARS2病毒nCoV2019和RaTG13的DNA序列比对。序列比对方法：NCBI BLASTN*
 
+[![](videos/Question2cover.png)](https://youtu.be/elGtvCsPBd8 "question 2")
+
 ## Question3
 ## nCoV2019是从RaTG13在实验室进化来的吗？
 如果nCoV2019是从RaTG13在实验室人工进化来的，那么时间上RaTG13在先，nCoV2019在后。换句话说，RaTG13是祖先型（ancestor），nCoV2019是子代型（descendent）。在回答这个问题之前，我们先看一下如果我们有已知的祖先型和子代型病毒，进化树如何告诉我们谁是祖先型，谁是子代型的。
