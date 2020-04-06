@@ -24,7 +24,7 @@
 ![](Images/image001.png)
 
 *图1:血红蛋白的序列分析。图片取自https://mbio.asm.org/content/9/6/e01524-18。*
-[![question 1](Videos/序列分析和进化树入门知识cover.png)](https://www.youtube.com/watch?v=eITBoHBftv4&feature=youtu.be "question 1")
+[!(Videos/序列分析和进化树入门知识cover.png)](https://www.youtube.com/watch?v=eITBoHBftv4&feature=youtu.be "question 1")
 
 ## Question1
 ## 和新冠病毒nCoV2019最近的病毒是什么？穿山甲是中间宿主吗？
