@@ -42,6 +42,8 @@
 
 *图3: 冠状病毒进化树。图片来源：https://nextstrain.org/groups/blab/sars-like-cov?c=host*
 
+这个图的信息量也很大。比如，你可以看出2002年的SARS和果子狸病毒最近，连接它们的树枝非常短，所以我们可以很有把握地推测2002年SARS是果子狸传给人的。蝙蝠病毒RaTG13和nCoV2019虽然亲缘关系最近，但比起2002年的SARS和果子狸病毒的亲缘关系，还是差了很远。所以nCoV2019应该还有未知的中间宿主。目前收集的穿山甲病毒样本（图中绿点）和nCoV2019相距更远，所以现有的数据不支持穿山甲是nCoV2019的中间宿主。
+
 [![](videos/Question1cover.png)](https://youtu.be/ksx-tu0jfCo "question 1")
 
 ## Question2
