@@ -7,7 +7,7 @@
 ## [5 新冠病毒的S蛋白有个插入序列形成了Furin蛋白酶切位点，可能增强了病毒的感染力。这么精巧的短序列插入难道不是人为的吗?](#question5)
 ## [6 nCoV2019是从哪里来的呢？](#question6)
 ## [7 nCoV2019病毒毒株2013年就收集了，为什么2020年才发表基因组和文章？](#question7)
-##【附录】（#apendix）
+## [附录]（#apendix）
 
 ## Introduction 
 ## 引言
@@ -162,4 +162,4 @@ Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 
 
 ## apendix
 ## 附录
-[附录文件](Data/readme)
+[附录文件](Data/Readme)
