@@ -1,0 +1,30 @@
+### Test
+
+1. 野生型病毒基因组数据：
+MG772934.1 Bat SARS-like coronavirus isolate bat-SL-CoVZXC21
+MG772933.1 Bat SARS-like coronavirus isolate bat-SL-CoVZC45
+MN996532.1 Bat coronavirus RaTG13
+NC_045512.2 Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, 
+
+2. 文件
+mutate.pl 	病毒模拟子代型序列小程序
+RaTG13.fas	RaTG13基因组序列
+RaTG13_mutate.fas	模拟的RaTG13子代基因组序列
+nCoV.fas		四个野生型病毒基因组序列
+nCoV_with_mutatant.fas	包含模拟的RaTG13子代的四个基因组序列
+nCoV.ali		野生型病毒基因组序列比对
+nCoV_with_mutant.ali  	包含模拟的RaTG13子代的四个基因组序列比对
+nCoV.tre	野生型进化树
+nCov_with_mutant.tre 	包含模拟的RaTG13子代的进化树
+
+3. 分析流程
+模拟子代型基因组序列
+cat RaTG13.fas |./mutate.pl 1160 > RaTG13_mutate.fas
+
+生成基因组序例比对
+mafft nCoV.fas > nCoV.ali
+mafft nCoV_with_mutant.fas > nCoV_with_mutant.ali
+
+构建进化树
+FastTree -nt -gtr < nCoV.ali > nCoV.tre
+FastTree -nt -gtr < nCoV_with_mutant.ali > nCoV_with_mutant.tre
