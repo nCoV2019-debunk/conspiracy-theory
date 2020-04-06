@@ -107,7 +107,7 @@
 
 ![](Images/image011.jpg)
 
-*图7. SARS类病毒Spike蛋白质的序列比对。图片来源 https://jvi.asm.org/content/84/21/11336*
+*图7. SARS类病毒Spike或者S蛋白质的序列比对。图片来源 https://jvi.asm.org/content/84/21/11336*
 
 综上所述，没有证据支持这些序列是人工插入。相反，所有证据都支持这些序列是自然进化而来。
 
