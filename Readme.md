@@ -52,7 +52,7 @@
 
 ![](Images/image004.png)
 
-*图4: 2019年SARS2病毒nCoV2019和RaTG13的DNA序列比对。序列比对方法：NCBI BLASTN*
+*图4: 新冠病毒nCoV2019和RaTG13的DNA序列比对。序列比对方法：NCBI BLASTN*
 
 [![](videos/Question2cover.png)](https://youtu.be/elGtvCsPBd8 "question 2")
 
