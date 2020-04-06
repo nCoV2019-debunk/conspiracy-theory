@@ -87,7 +87,7 @@
 首先要说的是，这篇预印文章的分析方法犯了非常低级的错误。所以几天之内就撤了稿。这四个插入序列都很短，在其它物种（各种动物，细菌和病毒）中都存在，说车载斗量都不过分。其中第三和第四个序列和HIV序列相差甚远，可以说和HIV没有半毛钱的关系。反驳（打脸）这篇文章的科学家很多。比如经同行评审后正式发表的文章有这篇 （https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7033698/）。 
 
 好吧，既然这四个插入序列和HIV无关。那么，它们究竟是从哪里来的呢？
-关于这个问题，Trevor Bedford 的Twitter解释得很好。 Trevor Bedford是Fred Hutchinson Cancer Research Center的教授(https://bedford.io/blog/)。他的专长是用基因组研究新冠病毒流行病史。他的研究推测出美国华盛顿州从很早就已出现社区感染（https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html）。
+关于这个问题，Trevor Bedford 的Twitter解释得很好。 Trevor Bedford是Fred Hutchinson Cancer Research Center的教授(https://bedford.io/blog/)。 他的专长是用基因组研究新冠病毒流行病史。他的研究推测出美国华盛顿州从很早就已出现社区感染（https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html）。
 
 我们来看一下他是如何解释的。他解释的原文在这里。（https://threadreaderapp.com/thread/1223666856923291648.html）
 
