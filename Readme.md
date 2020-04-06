@@ -111,9 +111,10 @@
 
 ![](Images/image013.png)
 
-*图9. 进化树显示，这个插入序列是在不超过三年的时间通过自然进化获得的。
+*图9. 进化树显示，这个插入序列是在不超过三年的时间通过自然进化获得的。*
 
 Sun et al. 2016 Virology. Jan 15;488:120-8. doi: 10.1016/j.virol.2015.10.032. Epub 2015 Nov 26.
+
 Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 2013 Jun 12.
 
 ## Question6
