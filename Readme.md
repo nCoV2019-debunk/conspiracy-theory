@@ -127,6 +127,8 @@ Sun et al. 2016 Virology. Jan 15;488:120-8. doi: 10.1016/j.virol.2015.10.032. Ep
 
 Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 2013 Jun 12.
 
+[![question 5](videos/Question5cover.png)](https://youtu.be/Q_KBj6Bh-kE "question 5")
+
 ## Question6
 ## nCoV2019有可能是从实验室泄漏的吗？
 对这个问题我见到的最好最严谨的解释是3月17日发表在自然医学（Nature Medicine）的文章（https://www.nature.com/articles/s41591-020-0820-9）。
