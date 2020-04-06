@@ -89,13 +89,13 @@
 好吧，既然这四个插入序列和HIV无关。那么，它们究竟是从哪里来的呢？
 关于这个问题，Trevor Bedford 的Twitter解释得很好。 Trevor Bedford是Fred Hutchinson Cancer Research Center的教授(https://bedford.io/blog/)。 他的专长是用基因组研究新冠病毒流行病史。他的研究推测出美国华盛顿州从很早就已出现社区感染（https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html）。
 
-我们来看一下他是如何解释的。他解释的原文在这里。（https://threadreaderapp.com/thread/1223666856923291648.html）
+我们来看一下他是如何解释的。他解释的原文在这里（https://threadreaderapp.com/thread/1223666856923291648.html）。
 
 ![](Images/image007.png)
 >“第一个插入序列在云南蝙蝠病毒RaTG13也有，所以这个序列不可能是人工插入到nCoV2019病毒的。”
 
 ![](Images/image008.png)
->“第二个插入序列根本不是插入序列，只是序列比对技术错误（artifact）。序列本身在蝙蝠病毒RaTG13和相近的其它蝙蝠病毒也存在。这个序列根本不可能是人工插入到nCoV2019病毒的。”
+>“第二个插入序列根本不是插入序列，只是序列比对技术错误（artifact）。序列本身在蝙蝠病毒RaTG13和其它相近的蝙蝠病毒也存在。这个序列根本不可能是人工插入到nCoV2019病毒的。”
 
 ![](Images/image009.png)
 >“第三个插入序列也在蝙蝠病毒RaTG13存在，所以这个序列也不可能是人工插入nCoV2019病毒的。”
