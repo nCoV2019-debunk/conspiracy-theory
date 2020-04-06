@@ -76,6 +76,8 @@
 
 *图6. A.进化树显示新冠病毒nCoV2019不是从RaTG13人工或自然进化而来。B.电脑模拟显示，进化树可以准确反映出模拟的RaTG13子代型是从RaTG13进化而来的。*
 
+[![](videos/Question3cover.png)](https://youtu.be/NwdY-TYoSrI "question 3")
+
 ## Question4
 ## nCoV2019的Spike蛋白有四个插入序列，怎么解释？是人为的吗？
 最先指出这四个插入序列的是一篇没有经过同行评审的预印文章(https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1)。这篇文章声称（claim）这四个插入序列和HIV的序列高度相似，因此非同寻常。于是阴谋论者引用这篇文章，说病毒是人工改造的，不可能是自然进化来的。
