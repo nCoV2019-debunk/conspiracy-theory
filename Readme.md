@@ -156,11 +156,11 @@ Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 
 
 >Although the evidence shows that SARS-CoV-2 is not a purposefully manipulated virus, it is currently impossible to prove or disprove the other theories of its origin described here. However, since we observed all notable SARS-CoV-2 features, including the optimized RBD and polybasic cleavage site, in related coronaviruses in nature, we do not believe that any type of laboratory-based scenario is plausible.
 
-虽然证据表明nCoV2019不是人工有意改造来的，现在不可能证明或证伪其它的可能性（动物或者人群中自然进化，实验室泄漏）。但是，因为nCoV2019病毒基因组的显著特征（包括S蛋白优化的结合位点，多碱性氨基酸酶切位点（注：即上面提到的Furin蛋白酶切位点））在自然界中相关的冠状病毒中都存在，我们不相信任何源于实验室的解释是合理的。
+虽然证据表明nCoV2019不是人工有意改造来的，现在不可能证明或证伪其它的可能性（注：在动物或者人群中自然进化，或者实验室泄漏）。但是，因为nCoV2019病毒基因组的显著特征（包括S蛋白优化的结合位点，多碱性氨基酸酶切位点（注：即上面提到的Furin蛋白酶切位点））在自然界中相关的冠状病毒中都存在，我们不相信任何源于实验室的解释是合理的。
 
 ## Question7
 ## RaTG13病毒毒株2013年就收集了，为什么2020年才发表基因组和文章？
-现在病毒分离，基因组测序都很容易，不是每发现一个新的病毒株都可以发文章。什么概念呢？NCBI的数据库有24万多个细菌类基因组，35447个病毒基因组（https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/) 所以我觉得这没有什么奇怪的。我们实验室就有好些细菌基因组没有发表，也没有传到NCBI的数据库中。
+现在病毒分离，基因组测序都很容易，不是每发现一个新的病毒株都可以发文章，更不是随便可以发表在科学(Science)和自然（Nature）顶级期刊上的。什么概念呢？现在（2020年四月）美国国家生物技术信息中心(NCBI)的数据库有24万多个细菌类基因组，35447个病毒基因组（https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/)。 所以我觉得这没有什么奇怪的。我们实验室就有好些细菌基因组没有发表，也没有传到NCBI的数据库中。
 
 ## Question8
 ## PNAS文章把新冠病毒分成几个亚型，然后说，其中的A型是祖先型，有道理吗？
