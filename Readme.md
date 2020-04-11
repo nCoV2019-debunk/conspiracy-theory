@@ -178,7 +178,7 @@ Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 
 
 图10也有故意缩短连接新冠病毒和蝙蝠病毒RaTG13的树枝的嫌疑。树枝上每一个小横杠代表一个碱基突变。图10只显示15个碱基突变（实际应该至少是1160个）。真实的进化树（画风）是图11中显示的。 
 
-![](Images/image015.png)
+![](Images/image015.jpg)
 
 *图11.新冠病毒进化树 https://twitter.com/arambaut/status/1248610220210712587*
 
