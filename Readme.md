@@ -18,6 +18,15 @@
 ## 引言
 前段时间自媒体和社交网上流传关于新冠病毒的阴谋论（conspiracy theory）。阴谋论声称新冠病毒是在实验室人工改造而来的，不可能是从自然界中进化来的。为此，我查阅了相关科学文献和资料，做了一些简单的数据分析。在这里，我用进化论来解答关于新冠病毒起源的一些疑问并反驳阴谋论的观点。这篇科普文章分为两个部分。第一部分介绍序列分析和进化树的入门知识，其余的部分以问答的形式回答了一些问题。为了便于理解，我给前五个问题制作了视频。
 
+[![](videos/序列分析和进化树入门知识cover.png)](https://www.youtube.com/watch?v=acKuKsN1dWU&feature=youtu.be "question 1")
+[![](videos/Question1cover.png)](https://youtu.be/ksx-tu0jfCo "question 1")
+[![](videos/Question2cover.png)](https://youtu.be/elGtvCsPBd8 "question 2")
+[![](videos/Question3cover.png)](https://youtu.be/19uQLu9wYks "question 3")
+[![question 4](videos/Question4cover.png)](https://youtu.be/eZO9693UChg "question 4")
+[![question 5](videos/Question5cover.png)](https://youtu.be/Q_KBj6Bh-kE "question 5")
+
+如果想要进一步了解，可以接着往下读文字。
+
 ## 序列分析和进化树入门
 如果我们要知道物种之间的亲缘关系，我们可以比较物种的相似性。比如，人和猴子长的比人和猫更像，所以我们可以得出这样的结论：在进化史上人和猴子更近。物种的信息储存在DNA中（DNA就像生物的硬盘）。DNA有四种碱基 ATGC。ATGC可以按不同的顺序排列组合，形成每个物种特有的基因组（Genome）。人的基因组有30亿个碱基，nCoV2019病毒基因组小多了，只有29000个碱基。
 
