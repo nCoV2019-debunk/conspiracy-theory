@@ -24,9 +24,9 @@
 [![](videos/Question3cover.png)](https://youtu.be/19uQLu9wYks "question 3")
 [![question 4](videos/Question4cover.png)](https://youtu.be/eZO9693UChg "question 4")
 [![question 5](videos/Question5cover.png)](https://youtu.be/Q_KBj6Bh-kE "question 5")
-
-如果想要进一步了解，可以接着往下读文字。
-
+*****
+### 如果想要进一步了解，可以接着往下读文字。
+*****
 ## 序列分析和进化树入门
 如果我们要知道物种之间的亲缘关系，我们可以比较物种的相似性。比如，人和猴子长的比人和猫更像，所以我们可以得出这样的结论：在进化史上人和猴子更近。物种的信息储存在DNA中（DNA就像生物的硬盘）。DNA有四种碱基 ATGC。ATGC可以按不同的顺序排列组合，形成每个物种特有的基因组（Genome）。人的基因组有30亿个碱基，nCoV2019病毒基因组小多了，只有29000个碱基。
 
