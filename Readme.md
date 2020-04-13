@@ -12,7 +12,7 @@
 ## [9 研究病毒起源除进化树方法外，还有其他方法？](#question9)
 ## [附录](#apendix)
 *****
-### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
+### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
 *****
 ## Introduction 
 ## 引言
