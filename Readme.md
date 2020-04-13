@@ -9,7 +9,7 @@
 ## [6 nCoV2019是从哪里来的呢？](#question6)
 ## [7 RaTG13病毒毒株2013年就收集了，为什么2020年才发表基因组和文章？](#question7)
 ## [8 PNAS文章把新冠病毒分成几个亚型，然后说，其中的A型是祖先型，有道理吗？](#question8)
-## [9 研究病毒起源除进化树方法外，还有其他方法？](#question9)
+## [9 研究病毒起源除进化树方法外，还有其他方法吗？](#question9)
 ## [附录](#apendix)
 *****
 ### 如果这篇文章有地方解释得不清楚，欢迎你把问题发邮件给 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
