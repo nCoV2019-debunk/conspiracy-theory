@@ -12,7 +12,7 @@
 ## [9 研究病毒起源除进化树方法外，还有其他方法？](#question9)
 ## [附录](#apendix)
 *****
-### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
+### 如果这篇文章有地方解释得不清楚，欢迎你把问题发邮件给 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
 *****
 ## Introduction 
 ## 引言
@@ -204,7 +204,7 @@ Kapczynski et al. 2013 J Virol. 87(16):9086-96. doi: 10.1128/JVI.00666-13. Epub 
 进化树应该和流行病学调查结合起来做。流行病学调查非常重要，因为它提供了病毒样本的时间，因此可以用来验证进化树和校验进化树的时间轴。但只有流行病调查也有局限性。现在一个新兴的学科是用基因组进化树来研究流行病史。比如Trevor Bedford 教授用进化方法发现美国华盛顿州从美国第一例病人开始就发生了社区感染。但是流行病研究并没有这些数据。因为早期美国缺试剂盒，没有确诊出社区携带者。这时用基因组数据研究比较可靠。总之，两个方法互相补充，但得出的结论应该是一致的。发表的各个科学文章也验证了这一点。
 
 ******
-### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
+### 如果这篇文章有地方解释得不清楚，欢迎你把问题发邮件给 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发这个链接https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
 ******
 
 ## apendix
