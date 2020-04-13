@@ -12,11 +12,11 @@
 ## [9 研究病毒起源除进化树方法外，还有其他方法？](#question9)
 ## [附录](#apendix)
 *****
-### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。
+### 如果这篇文章有地方解释地不清楚，欢迎你把问题发邮件到 pufferthelittlefish@gmail.com，我会尽力解答。欢迎转发https://github.com/nCoV2019-debunk/conspiracy-theory/edit/master/Readme.md。
 *****
 ## Introduction 
 ## 引言
-前段时间自媒体和社交网上流传关于新冠病毒的阴谋论（conspiracy theory）。阴谋论声称新冠病毒是在实验室人工改造而来的，不可能是从自然界中进化来的。为此，我查阅了相关科学文献和资料，做了一些简单的数据分析。在这里，我用进化论来解答关于新冠病毒起源的一些疑问并反驳阴谋论的观点。这篇科普文章分为两个部分。第一部分介绍序列分析和进化树的入门知识，其余的部分以问答的形式回答了一些问题。为了便于理解，我给前五个问题制作了视频。
+前段时间自媒体和社交网上流传关于新冠病毒的阴谋论（conspiracy theory）。阴谋论声称新冠病毒是在实验室人工改造而来的，不可能是从自然界中进化来的。为此，我查阅了相关科学文献和资料，做了一些简单的数据分析。在这里，我用进化论来解答关于新冠病毒起源的一些疑问并反驳阴谋论的观点。这篇科普文章分为两个部分。第一部分介绍序列分析和进化树的入门知识，其余的部分以问答的形式回答了一些问题。为了便于理解，我给入门知识和前五个问题制作了视频。性子急的可以先看视频。
 
 [![](videos/序列分析和进化树入门知识cover.png)](https://www.youtube.com/watch?v=acKuKsN1dWU&feature=youtu.be "question 1")
 [![](videos/Question1cover.png)](https://youtu.be/ksx-tu0jfCo "question 1")
